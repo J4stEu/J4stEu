@@ -4,8 +4,6 @@ I'm a __full-stack web-developer__ based in Saint Petersburg.
 
 Almost self-taught, I've been developing myself in this sphere since 2015. From planning and designing all the way to launching projects / solving real-life problems with code. Free time is also meant for creation by experimenting, getting carried away about cyber security, building PC's and other interesting stuff.
 
-You can find more about me here: [https://j4steu.github.io](https://j4steu.github.io/ "My personal site")
+You can find more about me here: [j4steu.github.io](https://j4steu.github.io/ "My personal site")
 
-Find me in PDF: [resume](https://drive.google.com/file/d/1_A3sA3u7tvVKj1Gg_rGzPyV9Uqupn81i/view "My resume")
-
-My Email: [NIKKSTUDIO3023@gmail.com](mailto:NIKKSTUDIO3023@gmail.com "My email")
+Contact me: [NIKKSTUDIO3023@gmail.com](mailto:NIKKSTUDIO3023@gmail.com "My email")
