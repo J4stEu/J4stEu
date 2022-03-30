@@ -8,3 +8,4 @@ You can find more about me here: [https://j4steu.github.io](https://j4steu.githu
 
 Find me in PDF: [resume](https://drive.google.com/file/d/1_A3sA3u7tvVKj1Gg_rGzPyV9Uqupn81i/view "My resume")
 
+My Email: [NIKKSTUDIO3023@gmail.com](mailto:NIKKSTUDIO3023@gmail.com "My email")
