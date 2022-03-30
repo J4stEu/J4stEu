@@ -6,5 +6,5 @@ Almost self-taught, I've been developing myself in this sphere since 2015. From 
 
 You can find more about me here: [https://j4steu.github.io](https://j4steu.github.io/ "My personal site")
 
-Find me in PDF: resume (https://drive.google.com/file/d/1_A3sA3u7tvVKj1Gg_rGzPyV9Uqupn81i/view "My resume")
+Find me in PDF: [resume](https://drive.google.com/file/d/1_A3sA3u7tvVKj1Gg_rGzPyV9Uqupn81i/view "My resume")
 
