@@ -1,4 +1,4 @@
-#Hello there, my name is Eugene! <img src="https://github.com/J4stEu/J4stEu-personal/blob/main/j4steu-personal-frontend/static/favicon.png?raw=true" width="50">
+# Hello there, my name is Eugene!<img src="https://github.com/J4stEu/J4stEu-personal/blob/main/j4steu-personal-frontend/static/favicon.png?raw=true" width="50">
 
 I'm a __full-stack web-developer__ based in Saint Petersburg.
 
